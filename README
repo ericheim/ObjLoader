@@ -1,0 +1,11 @@
+Android-NDK sample project that shows how to load
+wavefront files with UV texture mapping.
+
+Useing the libpng and libzip Android ports from:
+
+https://github.com/julienr/libpng-android.git
+https://github.com/julienr/libzip-android.git
+
+to read textures in *.png format and the asset folder
+in the android app.
+
